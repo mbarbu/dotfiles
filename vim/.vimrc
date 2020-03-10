@@ -37,7 +37,7 @@ colorscheme darcula
 
 set nowrap " don't wrap long lines by default
 set colorcolumn=79 " marker for rightmost column
-hi ColorColumn guibg=darkred ctermbg=1
+hi ColorColumn guibg=#562b2b ctermbg=darkred
 
 " fix inconsistency
 nnoremap Y y$
